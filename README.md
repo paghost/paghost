@@ -2,10 +2,10 @@
  
  Working on a python program to find password of pcap files.
  
- First step is import-pass.py which takes password lists and sorts them into 2letter, 3letter, 4letter and so on... text files
+ Looking at pwd8.py and letters.txt and the 3 pictures from my notebook to give you an idea of my intentions
  
- I tried using 2 different methods to sort the files but end up getting all 2 letter words in the 3 letter.txt and 3 letter words in 4letter.txt and so on
+ trying to sequence the variables to get every possible combination.. seems so tedious i feel like there is an easy way i just havent found it yet.
  
- Any help would be appreciated ,, im a n00b so thank you
+ Any help would be appreciated ,, thank you
  
  paghost@protonmail.com
